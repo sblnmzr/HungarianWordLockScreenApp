@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hungarian Word Lock Screen</string>
+    <string name="welcome_message">Welcome to the Hungarian Word Learning App!</string>
+    <string name="change_frequency_label">Change Frequency:</string>
+    <string name="change_frequency_30s">30 seconds</string>
+    <string name="change_frequency_1m">1 minute</string>
+    <string name="change_frequency_5m">5 minutes</string>
+    <string name="add_word_label">Add a new word:</string>
+    <string name="favorite_words_label">Favorite Words</string>
+    <string name="no_favorite_words">No favorite words added yet.</string>
+    <string name="settings_label">Settings</string>
+    <string name="error_message">An error occurred. Please try again.</string>
+</resources>
